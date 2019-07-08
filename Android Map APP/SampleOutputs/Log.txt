@@ -1,0 +1,41 @@
+2019-04-24 22:56:24.705 14548-14555/? I/zygote: Debugger is no longer active
+2019-04-24 22:56:24.884 14548-14548/? I/InstantRun: starting instant run server: is main process
+2019-04-24 22:56:25.015 14548-14548/? I/zzbz: Making Creator dynamically
+2019-04-24 22:56:25.025 14548-14548/? W/zygote: Unsupported class loader
+2019-04-24 22:56:25.026 14548-14548/? W/zygote: Skipping duplicate class check due to unsupported classloader
+2019-04-24 22:56:25.028 14548-14548/? I/DynamiteModule: Considering local module com.google.android.gms.maps_dynamite:0 and remote module com.google.android.gms.maps_dynamite:221
+2019-04-24 22:56:25.028 14548-14548/? I/DynamiteModule: Selected remote version of com.google.android.gms.maps_dynamite, version >= 221
+2019-04-24 22:56:25.044 14548-14548/? W/zygote: Unsupported class loader
+2019-04-24 22:56:25.045 14548-14548/? W/zygote: Skipping duplicate class check due to unsupported classloader
+2019-04-24 22:56:25.065 14548-14548/? I/Google Maps Android API: Google Play services client version: 12451000
+2019-04-24 22:56:25.073 14548-14548/? I/Google Maps Android API: Google Play services package version: 16091022
+2019-04-24 22:56:25.302 14548-14577/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2019-04-24 22:56:25.319 14548-14553/? I/zygote: Do partial code cache collection, code=30KB, data=25KB
+2019-04-24 22:56:25.321 14548-14553/? I/zygote: After code cache collection, code=30KB, data=25KB
+2019-04-24 22:56:25.321 14548-14553/? I/zygote: Increasing code cache capacity to 128KB
+2019-04-24 22:56:25.342 14548-14604/? D/OpenGLRenderer: HWUI GL Pipeline
+2019-04-24 22:56:25.395 14548-14604/? I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2019-04-24 22:56:25.395 14548-14604/? I/OpenGLRenderer: Initialized EGL, version 1.4
+2019-04-24 22:56:25.395 14548-14604/? D/OpenGLRenderer: Swap behavior 1
+2019-04-24 22:56:25.395 14548-14604/? W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2019-04-24 22:56:25.395 14548-14604/? D/OpenGLRenderer: Swap behavior 0
+2019-04-24 22:56:25.396 14548-14604/? D/EGL_emulation: eglCreateContext: 0xa2e2ff00: maj 3 min 0 rcv 3
+2019-04-24 22:56:25.403 14548-14604/? D/EGL_emulation: eglMakeCurrent: 0xa2e2ff00: ver 3 0 (tinfo 0x98611150)
+2019-04-24 22:56:25.441 14548-14604/? D/EGL_emulation: eglMakeCurrent: 0xa2e2ff00: ver 3 0 (tinfo 0x98611150)
+2019-04-24 22:56:25.443 14548-14600/? D/EGL_emulation: eglCreateContext: 0x9b105ea0: maj 1 min 0 rcv 1
+2019-04-24 22:56:25.466 14548-14600/? D/EGL_emulation: eglMakeCurrent: 0x9b105ea0: ver 1 0 (tinfo 0x9b103590)
+2019-04-24 22:56:25.828 14548-14553/com.example.ex09 I/zygote: Do partial code cache collection, code=56KB, data=48KB
+2019-04-24 22:56:25.829 14548-14553/com.example.ex09 I/zygote: After code cache collection, code=47KB, data=42KB
+2019-04-24 22:56:25.829 14548-14553/com.example.ex09 I/zygote: Increasing code cache capacity to 256KB
+2019-04-24 22:56:27.026 14548-14553/com.example.ex09 I/zygote: Do full code cache collection, code=93KB, data=86KB
+2019-04-24 22:56:27.027 14548-14553/com.example.ex09 I/zygote: After code cache collection, code=68KB, data=55KB
+2019-04-24 22:56:27.341 14548-14602/com.example.ex09 W/DynamiteModule: Local module descriptor class for com.google.android.gms.googlecertificates not found.
+2019-04-24 22:56:27.346 14548-14602/com.example.ex09 I/DynamiteModule: Considering local module com.google.android.gms.googlecertificates:0 and remote module com.google.android.gms.googlecertificates:4
+2019-04-24 22:56:27.346 14548-14602/com.example.ex09 I/DynamiteModule: Selected remote version of com.google.android.gms.googlecertificates, version >= 4
+2019-04-24 22:56:27.349 14548-14602/com.example.ex09 W/zygote: Unsupported class loader
+2019-04-24 22:56:27.350 14548-14602/com.example.ex09 W/zygote: Skipping duplicate class check due to unsupported classloader
+2019-04-24 22:56:32.929 14548-14553/com.example.ex09 I/zygote: Do partial code cache collection, code=78KB, data=73KB
+2019-04-24 22:56:32.929 14548-14553/com.example.ex09 I/zygote: After code cache collection, code=78KB, data=73KB
+2019-04-24 22:56:32.929 14548-14553/com.example.ex09 I/zygote: Increasing code cache capacity to 512KB
+2019-04-24 22:56:37.705 14548-14553/com.example.ex09 I/zygote: Do full code cache collection, code=246KB, data=163KB
+2019-04-24 22:56:37.706 14548-14553/com.example.ex09 I/zygote: After code cache collection, code=216KB, data=131KB
